@@ -1,5 +1,5 @@
 ### As the venerable Bas Rutten once said...
-## **"Dangada dangada dang."**�
+## *"Dangada dangada dang."*
 <!--
 **AreteCore/aretecore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
