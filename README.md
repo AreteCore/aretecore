@@ -1,5 +1,5 @@
-### As the venerable Bas Rutten once said...
-## *"Dangada dangada dang."*
+### I like to solve problems.
+## Yep. Problems gettin' solved.
 <!--
 **AreteCore/aretecore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
