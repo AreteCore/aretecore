@@ -1,4 +1,6 @@
 ## I'm Rich, and I like to solve problems.
+
+*If you are curious about the quote to the left, it is from Isaac Asimov's sci-fi short story [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf), which is one of my favorite things in the world.*
 <!--
 **AreteCore/aretecore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
