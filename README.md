@@ -7,6 +7,5 @@
 *This is a list of curated learning resources that I personally like.*
 ### 
 
-[Scrimba](https://www.scrimba.com) -  A really nifty way to learn a lot of coding stuff. I would love to learn their language *Imba* at some point.
-
-[Miro](https://www.miro.com) - A visual collaboration board that has literally everything. Amazing.)
+[Scrimba](https://www.scrimba.com) -  A really nifty way to learn a lot of coding stuff. I would love to learn their language *Imba* at some point.  
+[Miro](https://www.miro.com) - A visual collaboration board that has literally everything. Amazing.
