@@ -19,7 +19,7 @@ Try [Sindre Sorhus' Awesome List](https://github.com/sindresorhus/awesome) if yo
 
 [Code Analogies](https://www.codeanalogies.com/) - An excellent place to look up all the esoteric coding things that you may not quite understand as a beginner.  
 [Scrimba](https://www.scrimba.com) -  A really nifty way to learn a lot of coding stuff. I would love to learn their language *Imba* at some point.  
-[JavaScript30](https://javascript30.com/) - JavaScript30 is a really nice way to learn JS, with bite-sized guides.
+[JavaScript30](https://javascript30.com/) - JavaScript30 is a really nice way to learn JS, with bite-sized guides.  
 [Miro](https://www.miro.com) - A visual collaboration board that has literally everything. Amazing.  
 [Flexbox Froggy](https://flexboxfroggy.com) - A cool game for learning CSS Flexbox.  
 [Grid Garden](https://cssgridgarden.com)  - A cool game for learning CSS grid.
