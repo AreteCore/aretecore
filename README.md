@@ -22,6 +22,7 @@ Try [Sindre Sorhus' Awesome List](https://github.com/sindresorhus/awesome) if yo
 [Miro](https://www.miro.com) - A visual collaboration board that has literally everything. Amazing.  
 [Flexbox Froggy](https://flexboxfroggy.com) - A cool game for learning CSS Flexbox.  
 [Grid Garden](https://cssgridgarden.com)  - A cool game for learning CSS grid.
+[Edabit](https://edabit.com) - I like their coding challenges, they start off very easy and get significantly harder.
 
 *More to come*
 
