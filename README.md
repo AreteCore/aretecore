@@ -1,18 +1,10 @@
-# I'm Rich, and I like to solve problems.
+# I'm Rich, and I **still* like to solve problems.
 
-## My advice to brand-new developers:
-Learn *commitment* and learn *patience* above all. And beware of *paralysis*.
+## What's been going on?
+I don't want to say I gave up coding, but the reality is that when I finished General Assembly's bootcamp in August of 2022, almost immediately some of the top FAANG companies started wave after wave of layoffs. **Around 70,000**, to be more specific, according to [this article](https://fi.money/blog/posts/faang-company-layoffs-what-caused-it-how-did-it-affect-their-stocks). 
+As much as I wanted to get into tech, I had to be realistic. I had been a research coordinator at a top California University and the grant was coming to an end; I was grinding applications and getting nowhere. Fortunately, my boss referred me to another position at the University and I was hired there. I have also been working actively on my side projects, teaching Digital Literacy and Financial Literacy to formerly incarcerated populations in Los Angeles for various non-profit re-entry services organizations such as the [Anti-Recidivism Coalition](www.antirecidivism.org). You can find my website here, [raiseup.la](raiseup.la).
 
-### **Commitment**
-It's going to take a lot of time to learn what you need to learn. Just get to it. Don't get bored or procrastinate.
 
-### **Patience**
-It's going to be frustrating. Just take a deep breath and try to pivot to something else, or even better, ask for help.
-
-### **Avoid Paralysis**
-There are a million guides on the internet that will teach you to do everything you want to learn. It's overwhelming at times; I know it was for me at first. A lot of the learning process is learning to separate what works from what doesn't. Below I have a list of resources that I highly recommend for newbies. They helped me a lot, and they will help you too. But things are always changing and you can always find more. 
-
-Try [Sindre Sorhus' Awesome List](https://github.com/sindresorhus/awesome) if you want a *massive* resource that has a bit of everything. Caution: It is overwhelming.  I've still not seen it all.  
 
 # My Curated Resources List
 *This is a list of curated learning resources that I personally like.*   
@@ -25,6 +17,7 @@ Try [Sindre Sorhus' Awesome List](https://github.com/sindresorhus/awesome) if yo
 [Grid Garden](https://cssgridgarden.com)  - A cool game for learning CSS grid.  
 [Edabit](https://edabit.com) - I like their coding challenges, they start off very easy and get significantly harder.
 
+Try [Sindre Sorhus' Awesome List](https://github.com/sindresorhus/awesome) if you want a *massive* resource that has a bit of everything. Caution: It is overwhelming.  I've still not seen it all.  
 *More to come*
 
 <!-- Possible adds:
